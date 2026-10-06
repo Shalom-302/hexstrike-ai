@@ -1,0 +1,4 @@
+# HexStrike MCP gateway — minimal footprint.
+# fastmcp brings its own ASGI server (uvicorn/starlette) for streamable-http.
+fastmcp>=0.2.0,<1.0.0
+requests>=2.31.0,<3.0.0
